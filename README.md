@@ -1,2 +1,2 @@
-# javascript-yearly-feature
-Collect Javascript yearly update
+# Collect Javascript yearly update
+
